@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  TEST
+  azure pipelines
 
 steps:
 - task: Maven@4
